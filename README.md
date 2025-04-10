@@ -1,3 +1,6 @@
+Alunos: Gabriel Costa, Jéssica Roecker, Lucas Daniel
+
+
 Explicação do Código e Resultado:
 
 Ó, esse código aqui é pra resolver um problema que nem um drone subindo uma montanha pra achar o lugar mais alto, sabe? A gente tem uma funçãozinha que é tipo uma montanha com vários altos e baixos, e o nome dela é f(x)=sin⁡(5x)⋅(1−tanh⁡(x2)) f(x) = \sin(5x) \cdot (1 - \tanh(x^2)) f(x)=sin(5x)⋅(1−tanh(x2)). Parece complicadão, né? Mas calma, é só um jeito de dizer que a montanha tem uns picos e uns vales, e a gente quer achar o pico mais alto entre x=−2 x = -2 x=−2 e x=2 x = 2 x=2.
